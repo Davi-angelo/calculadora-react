@@ -8,4 +8,9 @@
     width: 4.1em;
     height: 4.1em;
     margin-bottom: .5em;
+    cursor: pointer;
+}
+
+.geral:hover{
+    background-color: seagreen;
 }
